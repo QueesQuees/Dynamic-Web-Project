@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.item {
+    padding: 10px 15px 20px;
+    border: 1px solid #ccc;
+}
+
+.item:hover {
+    box-shadow: 0 0 10px silver;
+}
+
+.item-img {
+    padding: 15px;
+}
+.item:hover .item-img {
+    padding-top: 5px;
+}
+
+
+.item a {
+    text-decoration: none;
+}

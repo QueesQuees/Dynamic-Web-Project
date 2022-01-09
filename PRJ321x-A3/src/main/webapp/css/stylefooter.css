@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.footer-top {
+    border-top: 2px solid #000;
+    margin: 10px 0;
+}
+
+.footer-center {
+    padding-top: 10px;
+}
+.footer-center a{
+    text-decoration: none;
+}
+
+.footer-bottom {
+    background-color: rgb(205, 221, 236);
+    text-align: center;
+}
+
